@@ -1,0 +1,21 @@
+<!-- 
+class(className)- bir nece div olur
+classlar css de . ile yazilir, ad yazilir ve sonra {} ile icerisini doldururuq
+
+id- mutleq bir div olmalidi
+id ler css de # ile yazilir, ad yazilir ve sonra {} ile icerisini doldururuq
+
+line-height 15 20px max istifade etsen yaxsidi
+
+margin- colden mesafe saxlayir
+padding- iceriden mesafe saxlayir
+
+px - 1080x720
+% - anliq sehifeni 100% kimi qebul edib referans goturur
+% - calis hecvaxt height hissesine yazma(istisna var max-height olsa ve div icerisinde olsa)
+min-width, min-height, max-height, max-width calis hemise px ile olsun ki olcusunu rahat ayarlamaq olsun
+vw- width - windowsun olcusunu referans alir, istifade etmek olar width hissede
+vh- height - windowsun olcusunu referans alir, amma cox vaxt istifade olunmur
+vw - calis hemise width hissesinde yaz
+vh - calis hemise height hissesinde yaz
+ -->

@@ -1,0 +1,30 @@
+.Salam{
+    color: red;
+    background-color: cornflowerblue;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:600; /*font qalinligi*/
+    line-height: 10px; /*text ile boslugun cemi*/
+    height: 100px;
+    width: 80%;
+    margin: 10px;
+    padding: 20px;
+    
+}
+
+/* .Salam-Children{
+ width: 50%;
+ height: 90%;
+ background-color: chartreuse;
+ min-width: 200px;
+ max-width: 300px;
+ min-height: 200px;
+ max-height: 300px;
+
+} */
+.Salam-Children{
+ width: 90vw;
+ height: 25vh;
+ background-color: chartreuse;
+
+}

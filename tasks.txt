@@ -1,0 +1,9 @@
+bir divimiz olacaq 
+onun icerisinde 5 dene div olacaq ve heresi parent divinin enine ve uzunluguna uygun sekilde 1/5 hisselere bolunecek
+amma width maksimum olacaq
+ilk 2 div class olacaq eyni adla
+son 3 div ID olacaq
+ve ilk 2 div icerisine yazdigin sozun rengini, arxaplan rengini, ve font olcusunu deyisdir.
+3cu divin icerisindeki textin qalinligini deyisdir ve eni windowsun 78% i olsun.
+4cu divin olcusu 347px olsun.
+5ci divin olcusu 70% olsun ve 20px margin, 10px padding verersengit
